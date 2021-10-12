@@ -1,5 +1,5 @@
 # Crazy Banner
-#Script by Sutariya Parixit
+#Script Edit by Hacker Pancha
 
 Installation Step :
 
