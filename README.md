@@ -3,7 +3,7 @@
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Crazy-Banner
+1) git clone https://github.com/HackerPancha/Tmx-Banner
 
 
 2) cd Crazy-Banner
